@@ -2,7 +2,7 @@
 Get perfect shadow every time for the non-designer.
 
 # installation
-`npm i SHADOWWEZARD --save`
+`npm i shadowwezard --save`
 
 Then...
 
